@@ -248,22 +248,21 @@ Detailed behavioral assessment showing your money personality and psychological 
 - **Action Plan:** 3-step weekly strategy aligned with your goals
 
 ![Behavioral Financial Twin](screenshots/04-behavioral-financial-twin.png)
-6. Market GPT - Conversational Investment Advisor
-AI chat interface for personalized investment questions:
-- Ask about stocks, investment strategies, or retirement planning
-- Responses consider your financial goals and behavioral profile
-- Educational guidance aligned with SEBI compliance
 
-![Market GPT](screenshots/06-market-gpt.png
+### 5. Opportunity Radar - Market Intelligence
+Dynamically filtered investment opportunities matched to your psychology:
+- Real-time NSE stock opportunities with technical patterns
+- Confidence scores based on historical success rates
+- Behavioral filtering based on your risk profile
+- Transparent reasoning for stock inclusion/exclusion
 
 ![Market Intelligence](screenshots/05-opportunity-radar.png)
 
-### 5. Market GPT - Conversational Investment Advisor
+### 6. Market GPT - Conversational Investment Advisor
 AI chat interface for personalized investment questions:
 - Ask about stocks, investment strategies, or retirement planning
 - Responses consider your financial goals and behavioral profile
 - Educational guidance aligned with SEBI compliance
-
 
 ![Market GPT](screenshots/06-market-gpt.png)
 ---
