@@ -69,7 +69,7 @@ RupeeMirror maps each user's psychological and financial reality to create a **B
 
 ### Multi-Agent Agentic Pipeline
 
-![Financial & Behavioral AI Agent Pipeline](../screenshots/00-architecture-diagram.png)
+![Financial & Behavioral AI Agent Pipeline](screenshots/00-architecture-diagram.png)
 
 ### Agent Roles & Responsibilities
 

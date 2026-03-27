@@ -34,5 +34,3 @@ Thumbs.db
 dist/
 build/
 
-# Credentials (examples only, actual secrets never committed)
-# .streamlit/secrets.toml.example - KEEP THIS for documentation
