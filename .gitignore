@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local secrets (NEVER COMMIT API KEYS)
+.streamlit/secrets.toml
+.env
+*.env
+.streamlit/.streamlit
+.streamlit/cache/
+
+# Project
+.cache/
+*.log
+dist/
+build/
+
+# Credentials (examples only, actual secrets never committed)
+# .streamlit/secrets.toml.example - KEEP THIS for documentation
