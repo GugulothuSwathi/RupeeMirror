@@ -264,8 +264,8 @@ AI chat interface for personalized investment questions:
 - Responses consider your financial goals and behavioral profile
 - Educational guidance aligned with SEBI compliance
 
-![Market GPT](screenshots/06-market-gpt)
 
+![Market GPT](screenshots/06-market-gpt.png)
 ---
 
 ## Project Impact
