@@ -2,6 +2,8 @@
 
 **ET AI Hackathon 2026 Submission** | **Problem Statement 6: AI for the Indian Investor**
 
+> 🚀 **[Try RupeeMirror Live](https://rupeemirror.streamlit.app/)** — Experience behavioral AI-driven investment insights in real-time
+
 ---
 
 ## Table of Contents
@@ -127,6 +129,9 @@ google-generativeai>=0.8.6
 ---
 
 ## Installation
+
+### Try Live Demo First
+Want to test RupeeMirror before installing locally? Visit [https://rupeemirror.streamlit.app/](https://rupeemirror.streamlit.app/) for the live version.
 
 ### Prerequisites
 - Python 3.8 or higher
